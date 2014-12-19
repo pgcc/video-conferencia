@@ -3,7 +3,7 @@ video-conferencia
 
 
 ****The original design was adapted to work within the PL-Science
-****The following are the original project data!
+The following are the original project data!
 
 
 ## PeerChat
@@ -40,7 +40,7 @@ Feel Free to commit, Appreciated.
 
 ## Adaptation
 
-*Tassio
+* Tassio
 
 ## License
 
